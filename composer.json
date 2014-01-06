@@ -1,9 +1,9 @@
 {
-    "name": "frizzy/less-slim-middleware",
+    "name": "nitramm/frizzy-less-slim-middleware",
     "type": "library",
     "description": "Compiles LESS files to CSS",
     "keywords": ["less", "css", "lessphp"],
-    "homepage": "http://github.com/frizzy/less-slim-middleware",
+    "homepage": "http://github.com/nitramm/FrizzyLessSlimMiddleware",
     "license": "MIT",
     "authors": [
         {
